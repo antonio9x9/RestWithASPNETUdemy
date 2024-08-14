@@ -1,5 +1,4 @@
-## Name
-CRUD application in React and Rest API With ASP.NET
+## CRUD application in React and Rest API With ASP.NET
 
 ## Description
 Project develope during the [REST API's RESTFul do 0 à Azure com ASP.NET 8 e 5 e Docker](https://www.udemy.com/course/restful-apis-do-0-a-nuvem-com-aspnet-core-e-docker/?couponCode=KEEPLEARNING) Udemy course. The main objectve of the project was create a basic CRUD application to exercise React, ASP.NET, MySQL, Migrations, Unit tests and API concepts.
