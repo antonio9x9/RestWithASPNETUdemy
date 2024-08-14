@@ -10,19 +10,6 @@ Frontend developed in RactJs and API backend in ASP.NET. Dada base in MysSQL.
 ![tela_cadastro_de_books](https://github.com/user-attachments/assets/d868060c-08c9-4054-8589-b17ae9aa949f)
 ![tela_de_login](https://github.com/user-attachments/assets/dae4bdea-e90e-45cf-aa09-8be8327c66dd)
 
-## Installation
-**_Just dev enviroment avalible. _**
-
-**Pre-requirements**
-Visual Studio
-Node.js
-
-**Backend**
-Open the RestWithASPNETUdemy.sln in visual Studio and run the application
-
-**Frontend**
-Enter in _client_ fonder and run "npn start"
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
